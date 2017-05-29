@@ -12,7 +12,7 @@
         // Additional description that will only appear on the about page.
         "about": "<p>This site is maintained by XXX.</p><p>There isn't just one taginfo site, there are several. The main site is at <a class='extlink' href='https://taginfo.openstreetmap.org/'>taginfo.openstreetmap.org</a>, but several <a class='extlink' href='https://wiki.openstreetmap.org/wiki/Taginfo/Sites'>other taginfo sites</a> are operated by different people.</p>",
         // URL path to instance icon in the upper left.
-        "icon": "/img/logo/test.png",
+        "icon": "/img/logo/jp.png",
         // Contact name and email address.
         "contact": "Anonymous",
         // Geographical area this taginfo instance covers.
@@ -35,7 +35,7 @@
         "height": 180,
         "scale_image": 2,
         "scale_compare_image" : 1,
-        "background_image": "/img/mapbg/world.png",
+        "background_image": "/img/mapbg/japan.png",
         // optional attribution for base image, will show up below all maps
         "image_attribution": ""
     },

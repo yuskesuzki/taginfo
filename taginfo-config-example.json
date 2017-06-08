@@ -27,10 +27,10 @@
     },
     // For the geodistribution map. See the wiki documentation about these settings.
     "geodistribution": {
-        "left": -180,
-        "bottom": -90,
-        "right": 180,
-        "top": 90,
+        "left": 121.8236704,
+        "bottom": 20.2145811,
+        "right": 154.2055410,
+        "top": 46.9388859,
         "width": 360,
         "height": 180,
         "scale_image": 2,
